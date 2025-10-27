@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandresmartins&bg_color=0d1117&color=4e4c9e&line=4c5a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandresmartins&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.vercel.app/?username=alexandresmartins&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
@@ -28,7 +28,7 @@
   
   ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=R&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=Cplusplus&labelColor=0D1117)&nbsp;
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
